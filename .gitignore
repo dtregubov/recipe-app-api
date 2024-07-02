@@ -1,0 +1,13 @@
+*.pyc
+
+.idea/
+
+tmp/
+
+*.log
+venv/
+
+!.gitkeep
+.envrc
+__pycache__/
+.env
